@@ -2,6 +2,7 @@
 
 # Import the theme
 #theme: jekyll-theme-chirpy
+theme: "jekyll-theme-chirpy" 
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # Set to 'ko' for Korean.
