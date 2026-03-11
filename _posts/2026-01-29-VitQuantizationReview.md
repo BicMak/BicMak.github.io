@@ -1,7 +1,7 @@
 ---
 title: Vit 양자화시 주의사항
 date: 2026-01-28 20:30:00 +0900
-categories: [Quantization]
+categories: [Quantization, Transformer]
 tags: [Quantization, pytorch]
 math: true
 ---
