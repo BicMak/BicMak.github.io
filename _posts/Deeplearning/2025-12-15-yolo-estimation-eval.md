@@ -1,7 +1,7 @@
 ---
 title: Object detection에서 AP 스코어 평가방법
 date: 2024-12-15 14:30:00 +0900
-categories: [Deeplearning Evaluation, Object detection]
+categories: [Deeplearning, Object Detection]
 tags: [Object detection, evaluation metrics, yolo]
 math: true
 ---

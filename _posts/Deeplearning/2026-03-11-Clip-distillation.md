@@ -1,7 +1,7 @@
 ---
 title: Optimization of CLIP Distillation for Mobile
 date: 2026-03-11 16:30:00 +0900
-categories: [Knowledge distliation]
+categories: [Deeplearning, Knowledge Distillation]
 tags: [clip, distillation, mobile, knowledge-distillation]
 math: true
 ---

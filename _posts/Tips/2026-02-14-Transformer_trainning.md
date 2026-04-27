@@ -1,7 +1,7 @@
 ---
 title: Transformer 학습이 어려운 이유
 date: 2026-02-14 16:30:00 +0900
-categories: [Tips]
+categories: [Tips, Transformer]
 tags: [transformer, attention, gradient, optimization]
 math: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Quantization scale,zero
 date: 2026-01-28 20:30:00 +0900
-categories: [Quantization]
+categories: [EffectiveML, Quantization]
 tags: [Quantization, pytorch]
 math: true
 ---

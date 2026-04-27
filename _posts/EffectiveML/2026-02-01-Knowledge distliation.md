@@ -1,7 +1,7 @@
 ---
 title: Knowledge
 date: 2026-02-01 16:30:00 +0900
-categories: [Knowledge distliation]
+categories: [EffectiveML, Knowledge Distillation]
 tags: [Knowledge distliation, efficient ml]
 math: true
 ---

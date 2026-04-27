@@ -1,7 +1,7 @@
 ---
 title: Quantization 기초
 date: 2025-12-18 20:30:00 +0900
-categories: [Quantization]
+categories: [EffectiveML, Quantization]
 tags: [Quantization, pytorch]
 math: true
 ---

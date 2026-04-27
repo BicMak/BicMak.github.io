@@ -1,7 +1,7 @@
 ---
 title: Vit 양자화시 주의사항
 date: 2026-01-28 20:30:00 +0900
-categories: [Quantization, Transformer]
+categories: [EffectiveML, Quantization]
 tags: [Quantization, pytorch]
 math: true
 ---
@@ -62,7 +62,7 @@ v = self.attn_v_input.forward(v)  # (B, N, C)
 - 실제 구현에서 forward(), 순전파를 구현할때 정확도를 떨어트리는 중요 요인
 - self.quant_weight 가 사전에 양자화가 되어있는 상태였다면, 해당구간에서 순전파를 했다면 양자화가 2번 적용되어서 가중치값이 손실이 누적됨
 
-### Per-channel로 양자화르 했을떄 오히려 스코어가 떨어 질 수 있음
+### Per-channel로 양자화를 했을때 오히려 스코어가 떨어 질 수 있음
 
 - Per-channel은 각 채널마다 독립적인 스케일을 계산, 즉 vit 기준으로 patch가 197개가 존재하고 이것만으로 양자화를 계산하기 때문에 작은 outlier에 예민하게 값이 변함
 - 채널 A와 채널 B 사이의 상대적 관계를 반영하지 않아 채널간의 편차를 무시하게 됨

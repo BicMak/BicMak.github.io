@@ -1,8 +1,8 @@
 ---
 title: Torch memory 관리 팁
 date: 2026-01-29 20:30:00 +0900
-categories: [Quantization]
-tags: [Quantization, pytorch]
+categories: [Tips, Pytorch]
+tags: [pytorch, memory, gpu]
 math: true
 ---
 

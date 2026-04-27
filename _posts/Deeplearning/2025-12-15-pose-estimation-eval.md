@@ -1,7 +1,7 @@
 ---
 title: Pose Estimation에서 AP 스코어 평가방법
 date: 2024-12-15 14:30:00 +0900
-categories: [Deeplearning Evaluation, Pose Estimation]
+categories: [Deeplearning, Pose Estimation]
 tags: [pose estimation, evaluation metrics, oks, coco, vitpose]
 math: true
 ---
